@@ -7,7 +7,7 @@
 
 
 /////////////////////////////////////
-//  ласс Game
+//  Класс Game
 Game::Game()
 {
 	m_isGameActive = true;

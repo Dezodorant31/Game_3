@@ -2,7 +2,7 @@
 
 
 /////////////////////////////////////
-//  ласс GameObject
+//  Класс GameObject
 GameObject::GameObject()
 {
 	m_type = GameObjectType_None;

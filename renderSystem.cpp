@@ -3,7 +3,7 @@
 
 
 /////////////////////////////////////
-//  ласс RenderSystem
+//  Класс RenderSystem
 RenderSystem::RenderSystem()
 {
 	m_consoleHandle = 0;
